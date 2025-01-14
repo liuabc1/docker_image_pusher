@@ -1,1 +1,1 @@
-minio/mc
+velero/velero-plugin-for-aws:v1.5.5
